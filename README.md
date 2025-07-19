@@ -47,8 +47,8 @@ Always learning something new, and im chill guy
 ### My Social Media ~
 
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" style="vertical-align: middle;"> **Discord:** `kalfein`
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" style="vertical-align: middle;"> [Instagram](https://www.instagram.com/kal.putra_/)
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align: middle;"> LinkedIn:   <p>*Muhammad Haikal Putra Yandita* </p>   
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" style="vertical-align: middle;"> **Instagram** (https://www.instagram.com/kal.putra_/)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align: middle;"> ** LinkedIn** 
 
 
 
