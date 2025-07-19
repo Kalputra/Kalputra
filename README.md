@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Kal!
 
-I'm a passionate developer working my way towards becoming a **Fullstack Developer**. I enjoy building both web apps and games — from designing clean UIs to developing solid backend logic. I'm always exploring new tools and leveling up my skills.
+I'm a passionate developer working my way towards becoming a **Fullstack Developer**. I enjoy building both web apps and games from designing clean UIs to developing solid backend logic. I'm always exploring new tools and leveling up my skills.
 
 
 ---
