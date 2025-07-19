@@ -7,7 +7,7 @@ Always learning something new, and im chill guy
 ---
 
 
-### My Skills:
+### My Skills
 - **Web Development:**
   - Laravel (Blade PHP), PHP Native
   - HTML, CSS, JavaScript
@@ -36,14 +36,14 @@ Always learning something new, and im chill guy
 
 ---
 
-### 💼 Projects:
+### Projects
 - 💸 Website top-up (Laravel + Blade PHP + Herd Blade)
 - 📱 GymRex .. fitness mobile app built with React Native (team project)
 - 🌐 Personal portfolio website 
 - 🎮 Maze RPG game (Unity)
   And more games I made.
 
-### 📬 Let's connect:
+### My Social Media ~
 - 📷 [Instagram](https://www.instagram.com/kal.putra_/)
 - 💬 Discord: `kalfein`
 - 🔗 LinkedIn: *Muhammad Haikal Putra Yandita*
