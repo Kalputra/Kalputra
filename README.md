@@ -11,19 +11,22 @@ I'm a passionate developer working my way towards becoming a **Fullstack Develop
 - **Game Development:**
   - Unity *(developed a maze-style RPG project)*
   - Unreal Engine *(explored the basics)*
+- **Mobile App:**
+  - React Native *(used to build my first app: GymRex, developed with a team)*
 - **Other Languages:**
   - C#
   - C++ *(faded away around 2024 😅)*
 
 ### 💼 Projects:
 - 💸 Website for top-ups (Laravel + Blade PHP + Herd Blade)
+- 📱 GymRex – fitness mobile app built with React Native (team project)
 - 🌐 Personal portfolio website 
-- 🎮 Maze RPG game Unity
-- And more games i made.
+- 🎮 Maze RPG game (Unity)
+  And more games I made.
 
 ### 📬 Let's connect:
 - 📷 [Instagram](https://www.instagram.com/kal.putra_/)
-- 💬 [Discord: kalfein](https://discord.com/users/YOUR_DISCORD_ID)
+- 💬 Discord: `kalfein`
 - 🔗 LinkedIn: *Muhammad Haikal Putra Yandita*
 
 ---
