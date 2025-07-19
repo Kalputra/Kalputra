@@ -63,10 +63,6 @@ Always learning something new, and im chill guy
   </div>
 </div>
 
-
-
-
-
-
-
+<br/>
+<br/>
 > imma still learning ~
