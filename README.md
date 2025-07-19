@@ -44,20 +44,12 @@ Always learning something new, and im chill guy
   And more games I made.
 
 ### My Social Media ~
-<p align="left">
-  <img src="assets/instagram.png" alt="Instagram" width="20" style="vertical-align:middle; margin-right: 8px;">
-  <a href="https://www.instagram.com/kal.putra_/">Instagram</a>
-</p>
+### My Social Media ~
 
-<p align="left">
-  <img src="assets/discord.png" alt="Discord" width="20" style="vertical-align:middle; margin-right: 8px;">
-  kalfein
-</p>
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" style="vertical-align: middle;"> **Discord:** `kalfein`
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" style="vertical-align: middle;"> [Instagram](https://www.instagram.com/kal.putra_/)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align: middle;"> LinkedIn: *Muhammad Haikal Putra Yandita*
 
-<p align="left">
-  <img src="assets/linkedin.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right: 8px;">
-  <a href="https://www.linkedin.com/in/kalfein/">Muhammad Haikal Putra Yandita</a>
-</p>
 
 
 
