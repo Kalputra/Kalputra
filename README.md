@@ -28,7 +28,7 @@ I'm a passionate developer working my way towards becoming a **Fullstack Develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-
+---
 ### 💼 Projects:
 - 💸 Website top-up (Laravel + Blade PHP + Herd Blade)
 - 📱 GymRex .. fitness mobile app built with React Native (team project)
