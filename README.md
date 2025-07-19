@@ -17,8 +17,9 @@ I'm a passionate developer working my way towards becoming a **Fullstack Develop
 
 ### 💼 Projects:
 - 💸 Website for top-ups (Laravel + Blade PHP + Herd Blade)
-- 🌐 Personal portfolio website *(replacing an old Bandung tribute project)*
-- 🎮 Maze-style RPG game using Unity
+- 🌐 Personal portfolio website 
+- 🎮 Maze RPG game Unity
+- And more games i made.
 
 ### 📬 Let's connect:
 - 📷 [Instagram](https://www.instagram.com/kal.putra_/)
