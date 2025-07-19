@@ -44,42 +44,21 @@ Always learning something new, and im chill guy
   And more games I made.
 
 ### My Social Media ~
-<style>
-  .social-link {
-    display: flex;
-    align-items: center;
-    margin-bottom: 8px;
-    gap: 10px;
-  }
+<p align="left">
+  <img src="assets/instagram.png" alt="Instagram" width="20" style="vertical-align:middle; margin-right: 8px;">
+  <a href="https://www.instagram.com/kal.putra_/">Instagram</a>
+</p>
 
-  .social-link img {
-    width: 20px;
-    height: 20px;
-  }
+<p align="left">
+  <img src="assets/discord.png" alt="Discord" width="20" style="vertical-align:middle; margin-right: 8px;">
+  kalfein
+</p>
 
-  .social-link a {
-    text-decoration: none;
-    color: #333;
-    font-family: Arial, sans-serif;
-  }
-</style>
+<p align="left">
+  <img src="assets/linkedin.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right: 8px;">
+  <a href="https://www.linkedin.com/in/kalfein/">Muhammad Haikal Putra Yandita</a>
+</p>
 
-<div class="socials">
-  <div class="social-link">
-    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="Instagram Logo" />
-    <a href="https://www.instagram.com/kal.putra_/" target="_blank">kal.putra_</a>
-  </div>
-
-  <div class="social-link">
-    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="Discord Logo" />
-    <span>kalfein</span>
-  </div>
-
-  <div class="social-link">
-    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="LinkedIn Logo" />
-    <a href="https://linkedin.com/in/haikalputra" target="_blank">Muhammad Haikal Putra Yandita</a>
-  </div>
-</div>
 
 
 <br/>
