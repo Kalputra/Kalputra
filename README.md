@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hey there, I'm Kal!
 
-<!--
-**Kalputra/Kalputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer working my way towards becoming a **Fullstack Developer**. I enjoy building both web apps and games — from designing clean UIs to developing solid backend logic. I'm always exploring new tools and leveling up my skills.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills:
+- **Web Development:**
+  - Laravel (Blade PHP), PHP Native
+  - HTML, CSS, JavaScript
+  - React JS *(currently learning)*
+  - Django *(currently learning)*
+- **Game Development:**
+  - Unity *(developed a maze-style RPG project)*
+  - Unreal Engine *(explored the basics)*
+- **Other Languages:**
+  - C#
+  - C++ *(faded away around 2024 😅)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects:
+- 💸 Website for top-ups (Laravel + Blade PHP + Herd Blade)
+- 🌐 Personal portfolio website *(replacing an old Bandung tribute project)*
+- 🎮 Maze-style RPG game using Unity
+
+### 📬 Let's connect:
+- 📷 [Instagram](https://www.instagram.com/kal.putra_/)
+- 💬 [Discord: kalfein](https://discord.com/users/YOUR_DISCORD_ID)
+- 🔗 LinkedIn: *Muhammad Haikal Putra Yandita*
+
+---
+
+> imma still learning ~
