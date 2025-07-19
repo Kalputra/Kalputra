@@ -44,9 +44,21 @@ Always learning something new, and im chill guy
   And more games I made.
 
 ### My Social Media ~
-- 📷 [Instagram](https://www.instagram.com/kal.putra_/)
-- 💬 Discord: `kalfein`
-- 🔗 LinkedIn: *Muhammad Haikal Putra Yandita*
+<div>
+  <a href="https://www.instagram.com/kal.putra_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" style="vertical-align:middle;"/>
+    Instagram: @kal.putra_
+  </a><br/>
+
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="24" style="vertical-align:middle;"/>
+  Discord: kalfein<br/>
+
+  <a href="" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" style="vertical-align:middle;"/>
+    LinkedIn: Muhammad Haikal Putra Yandita
+  </a>
+</div>
+
 
 
 
