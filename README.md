@@ -44,24 +44,43 @@ Always learning something new, and im chill guy
   And more games I made.
 
 ### My Social Media ~
-<div style={{ color: "white", fontFamily: "sans-serif" }}>
-  <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="20" style={{ marginRight: "10px" }} />
-    <a href="https://instagram.com/kal.putra_" target="_blank" rel="noopener noreferrer" style={{ color: "#4ea8de", textDecoration: "none" }}>
-      @kal.putra_
-    </a>
+<style>
+  .social-link {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 10px;
+  }
+
+  .social-link img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .social-link a {
+    text-decoration: none;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+</style>
+
+<div class="socials">
+  <div class="social-link">
+    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="Instagram Logo" />
+    <a href="https://www.instagram.com/kal.putra_/" target="_blank">kal.putra_</a>
   </div>
-  <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="20" style={{ marginRight: "10px" }} />
-    <span style={{ color: "#bdbdbd" }}>kalfein</span>
+
+  <div class="social-link">
+    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="Discord Logo" />
+    <span>kalfein</span>
   </div>
-  <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style={{ marginRight: "10px" }} />
-    <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita/" target="_blank" rel="noopener noreferrer" style={{ color: "#4ea8de", textDecoration: "none" }}>
-      Muhammad Haikal Putra Yandita
-    </a>
+
+  <div class="social-link">
+    <img src="ebce22e9-4acc-4402-bb83-7dd6c2823478.png" alt="LinkedIn Logo" />
+    <a href="https://linkedin.com/in/haikalputra" target="_blank">Muhammad Haikal Putra Yandita</a>
   </div>
 </div>
+
 
 <br/>
 <br/>
