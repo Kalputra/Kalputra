@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/4f/36/6a/4f366a6db467b637cd0b56818ca3863d.jpg" alt="Wallpaper" width="100%">
+  <img src="https://i.pinimg.com/1200x/01/4b/ed/014bed03301791abacf69b8c0df23c0b.jpg" alt="Wallpaper" width="100%">
 </p>
 <br/>
 
