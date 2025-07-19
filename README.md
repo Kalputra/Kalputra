@@ -53,4 +53,4 @@ Always learning something new, and im chill guy
 
 <br/>
 <br/>
-> imma still learning ~
+ good day is not just brand coffee but is ur day too, be positive boys..
