@@ -2,6 +2,10 @@
 
 I'm a passionate developer working my way towards becoming a **Fullstack Developer**. I enjoy building both web apps and games — from designing clean UIs to developing solid backend logic. I'm always exploring new tools and leveling up my skills.
 
+
+---
+
+
 ### My Skills:
 - **Web Development:**
   - Laravel (Blade PHP), PHP Native
@@ -43,6 +47,5 @@ I'm a passionate developer working my way towards becoming a **Fullstack Develop
 - 💬 Discord: `kalfein`
 - 🔗 LinkedIn: *Muhammad Haikal Putra Yandita*
 
----
 
 > imma still learning ~
