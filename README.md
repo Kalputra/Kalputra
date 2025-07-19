@@ -21,7 +21,7 @@ Always learning something new, and im chill guy
   - React JS *(currently learning)*
   - Django *(currently learning)*
 - **Game Development:**
-  - Unity *(developed a maze-style RPG project)*
+  - Unity *(developed game with team, and also iam indie game developer)*
   - Unreal Engine *(explored the basics)*
 - **Mobile App:**
   - React Native *(used to build my first app: GymRex, developed with a team)*
@@ -48,7 +48,7 @@ Always learning something new, and im chill guy
 - 📱 GymRex .. fitness mobile app built with React Native (team project)
 - 🌐 Personal portfolio website 
 - 🎮 Maze RPG game (Unity)
-  And more games I made.
+  and more games i made.
 
 ### My Social Media ~
 
