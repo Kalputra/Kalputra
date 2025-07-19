@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/8e/7b/36/8e7b36e2c11f1b786063fee1ffe37c78.jpg" alt="Wallpaper" width="100%">
+</p>
+<br/>
+
 ## 👋 Hey there, I'm Kal!
 
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI iwriting backend logic. 
