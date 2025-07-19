@@ -18,8 +18,8 @@ I'm a passionate developer working my way towards becoming a **Fullstack Develop
   - C++ *(faded away around 2024 😅)*
 
 ### 💼 Projects:
-- 💸 Website for top-ups (Laravel + Blade PHP + Herd Blade)
-- 📱 GymRex – fitness mobile app built with React Native (team project)
+- 💸 Website top-up (Laravel + Blade PHP + Herd Blade)
+- 📱 GymRex .. fitness mobile app built with React Native (team project)
 - 🌐 Personal portfolio website 
 - 🎮 Maze RPG game (Unity)
   And more games I made.
