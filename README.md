@@ -45,7 +45,6 @@ Always learning something new, and im chill guy
 
 ### My Social Media ~
 <div style={{ color: "white", fontFamily: "sans-serif" }}>
-  <h2>My Social Media ~</h2>
   <div style={{ display: "flex", alignItems: "center", marginBottom: "8px" }}>
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="20" style={{ marginRight: "10px" }} />
     <a href="https://instagram.com/kal.putra_" target="_blank" rel="noopener noreferrer" style={{ color: "#4ea8de", textDecoration: "none" }}>
@@ -61,9 +60,6 @@ Always learning something new, and im chill guy
     <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita/" target="_blank" rel="noopener noreferrer" style={{ color: "#4ea8de", textDecoration: "none" }}>
       Muhammad Haikal Putra Yandita
     </a>
-  </div>
-  <div style={{ marginTop: "12px", color: "#9e9e9e", fontStyle: "italic" }}>
-    imma still learning ~
   </div>
 </div>
 
