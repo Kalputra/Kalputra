@@ -20,6 +20,7 @@ Always learning something new, and im chill guy
   - HTML, CSS, JavaScript
   - React JS *(currently learning)*
   - Django *(currently learning)*
+  - API: REST API (using Axios)
 - **Game Development:**
   - Unity *(developed game with team, and also iam indie game developer)*
   - Unreal Engine *(explored the basics)*
