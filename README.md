@@ -51,7 +51,7 @@ Always learning something new, and im chill guy
 - 📱 GymRex .. fitness mobile app built with React Native (team project)
 - 🌐 Personal portfolio website
 - 📚 Website perpustakaan (PHP Native)
-- 🎮 Maze RPG game (Unity)
+- 🎮 RPG game (Unity)
   and more games i made.
 
 ### My Social Media 
