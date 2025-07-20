@@ -49,7 +49,8 @@ Always learning something new, and im chill guy
 ### Projects
 - 💸 Website top-up (Laravel + Blade PHP + Herd Blade)
 - 📱 GymRex .. fitness mobile app built with React Native (team project)
-- 🌐 Personal portfolio website 
+- 🌐 Personal portfolio website
+- 📚 Website perpustakaan (PHP Native)
 - 🎮 Maze RPG game (Unity)
   and more games i made.
 
