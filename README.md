@@ -30,7 +30,7 @@ Always learning something new, and im chill guy
   - C++ *(faded away around 2024 😅)*
 - **3D Art:**
   - Junior 3D Artist *(experienced in game asset creation)*
-  - 🏆 *Juara Harapan 2 LKS 3D Game Art Nasional*
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
