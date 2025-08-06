@@ -56,11 +56,7 @@ Always learning something new, and im chill guy
 
 ### My Social Media 
 
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" style="vertical-align: middle;"> **Discord:** `kalfein`
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" style="vertical-align: middle;"> [Instagram](https://www.instagram.com/kal.putra_/)
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align: middle;"> LinkedIn: *Muhammad Haikal Putra Yandita*
-
-
+<p align="center"> <a href="https://www.instagram.com/kal.putra_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="mailto:haikaldev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://discord.com/users/kalfein" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://www.linkedin.com/in/haikalputra/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
 
 <br/>
 <br/>
