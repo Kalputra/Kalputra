@@ -90,7 +90,7 @@ Always learning something new, and im chill guy
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats
+## **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalputra&theme=react-dark&hide_border=true&area=true" />
