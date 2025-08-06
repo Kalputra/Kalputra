@@ -91,6 +91,11 @@ Always learning something new, and im chill guy
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://www.instagram.com/kal.putra_/">
+    <img src="https://img.shields.io/badge/Instagram-@kal.putra_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 <br/>
