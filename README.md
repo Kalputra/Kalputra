@@ -52,7 +52,9 @@ Always learning something new, and im chill guy
   <!-- Tools & DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/pgadmin.png" alt="pgAdmin" width="40" height="40"/>
+  <i class="devicon-postgresql-plain colored"></i>
+<i class="fas fa-chart-bar"></i> 
+
 </p>
 
 
