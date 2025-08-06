@@ -91,7 +91,7 @@ Always learning something new, and im chill guy
       </a>
     </td>
     <td align="center" width="110">
-      <a href="https://github.com/kalfein" target="_blank">
+      <a href="https://github.com/Kalputra" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" style="border-radius: 50%; background: #24292e;"><br>
         <sub><b>GitHub</b></sub>
       </a>
