@@ -93,7 +93,7 @@ Always learning something new, and im chill guy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalputra&theme=monokai&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://metrics.lecoq.io/Kalputra?template=classic&config.timezone=Asia%2FJakarta&config.display=large" />
 </p>
 
 
