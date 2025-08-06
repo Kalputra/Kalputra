@@ -62,7 +62,7 @@ Always learning something new, and im chill guy
 </p>
 
 <br/>
-### My Social Media 
+### **My Social Media**  
 
 <table align="center">
   <tr>
