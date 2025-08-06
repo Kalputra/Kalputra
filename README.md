@@ -90,6 +90,15 @@ Always learning something new, and im chill guy
     </td>
   </tr>
 </table>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalputra&show_icons=true&theme=radical" alt="Kalputra's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalputra&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 
 
