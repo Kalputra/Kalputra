@@ -43,6 +43,9 @@ Always learning something new, and im chill guy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://superset.apache.org/images/superset-logo-horiz.png" alt="Apache Superset" width="90" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Trino" width="40" height="40"/>
 </p>
 
 
