@@ -3,7 +3,7 @@
 </p>
 <br/>
 
-## 👋 Hey there, I'm Kal!
+## 👋 Hey there, I'm **Muhammad Haikal Putra Yandita**!
 
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI & backend logic. 
 <br/>
