@@ -61,7 +61,7 @@ Always learning something new, and im chill guy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalputra&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-<br/>
+
 ### **My Social Media**  
 
 <table align="center">
