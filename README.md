@@ -52,12 +52,6 @@ Always learning something new, and im chill guy
   <!-- Tools & DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<!-- pgAdmin -->
-<span><i class="fas fa-database"></i> pgAdmin</span>
-
-<!-- Apache Superset -->
-<span><i class="fas fa-chart-bar"></i> Apache Superset</span>
-
 </p>
 
 
