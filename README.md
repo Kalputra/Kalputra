@@ -58,38 +58,39 @@ Always learning something new, and im chill guy
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <a href="https://www.instagram.com/kal.putra_/">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"><br>
+    <td align="center" width="110">
+      <a href="https://www.instagram.com/kal.putra_/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" style="border-radius: 50%;"><br>
         <sub><b>Instagram</b></sub>
       </a>
     </td>
-    <td align="center" width="100">
-      <a href="mailto:gregethaikal@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"><br>
+    <td align="center" width="110">
+      <a href="mailto:gregethaikal@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" style="border-radius: 50%;"><br>
         <sub><b>Gmail</b></sub>
       </a>
     </td>
-    <td align="center" width="100">
-      <a href="https://discord.com/users/kalfein">
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="30"><br>
+    <td align="center" width="110">
+      <a href="https://discord.com/users/kalfein" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="48" style="border-radius: 50%; background: #5865F2;"><br>
         <sub><b>Discord</b></sub>
       </a>
     </td>
-    <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita-337a36299/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"><br>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita-337a36299/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" style="border-radius: 50%; background: #0077B5;"><br>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
-    <td align="center" width="100">
-      <a href="https://github.com/kalfein">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30"><br>
+    <td align="center" width="110">
+      <a href="https://github.com/kalfein" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" style="border-radius: 50%; background: #24292e;"><br>
         <sub><b>GitHub</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <br/>
