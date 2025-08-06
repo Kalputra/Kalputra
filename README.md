@@ -93,7 +93,7 @@ Always learning something new, and im chill guy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Kalputra?template=classic&config.timezone=Asia%2FJakarta&config.display=large" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kalputra&theme=rogue&hide_border=true&area=true" />
 </p>
 
 
