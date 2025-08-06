@@ -31,7 +31,7 @@ Always learning something new, and im chill guy
 - **3D Art:**
   - Junior 3D Artist *(experienced in game asset creation)*
 
-
+<br/>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
