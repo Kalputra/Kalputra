@@ -89,7 +89,7 @@ Always learning something new, and im chill guy
       </a>
     </td>
     <td align="center" width="110">
-      <a href="mailto:gregethaikal@gmail.com" target="_blank">
+      <a href="mailto:kazderta@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" style="border-radius: 50%;"><br>
         <sub><b>Gmail</b></sub>
       </a>
