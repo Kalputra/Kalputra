@@ -119,3 +119,24 @@ Always learning something new, and im chill guy
 <br/>
 <br/>
   good day is not just brand coffee but is ur day too, be positive boys..
+
+
+
+impl Developer for Kalputra {
+    fn current_goals() -> Vec<&'static str> {
+        vec![
+            "master fullstack development",
+            "ship commercial indie game", 
+            "build meaningful web apps",
+            "create stunning 3d assets"
+        ]
+    }
+    
+    fn daily_routine() -> String {
+        "coffee → code → commit → repeat".to_string()
+    }
+    
+    fn life_philosophy() -> &'static str {
+        "stay positive, keep building ☕"
+    }
+}
