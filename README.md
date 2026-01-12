@@ -15,10 +15,10 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
     </a>
     <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita-337a36299/" rel="nofollow">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewaryo" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haikal putra" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
     </a>
     <a href="https://www.instagram.com/kal.putraa/" rel="nofollow">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and_ryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
     </a>
   </p>
 </div>
