@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/u/0/drive-viewer/AKGpihbbIPY60y8OhYSW7V7VplB3TObM2Z9j9UGE1ia9UaF2Hc0lbLGvlvaFGKdkT-HmOXUnFPAPyxiSBBE2fjXfanusIH4lPavD_w=s1600-rw-v1?auditContext=forDisplay" alt="Wallpaper" width="100%" height="50%">
+  <img src="https://drive.google.com/file/d/1pf-XMe_CjVQfEEOA7jcx1exuDVnKHm8Y/view?usp=sharing" alt="Wallpaper" width="100%" height="50%">
 </p>
 <br/>
 
