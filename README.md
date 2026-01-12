@@ -23,7 +23,7 @@ Always learning something new, and im chill guy
   - React Native *(used to build my first app: GymRex, developed with a team)*
 - **Other Languages:**
   - C#
-  - C++ *(faded away around 2024 😅)*
+  - C++ 
 - **3D Art:**
   - Junior 3D Artist *(experienced in game asset creation)*
 
