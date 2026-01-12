@@ -39,9 +39,8 @@ Always learning something new, and im chill guy
 
 <br/>
 
-### **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalputra&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKalputra&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
 
 
