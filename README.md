@@ -4,7 +4,9 @@
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI & backend logic. 
 <br/>
 Always learning something new, and im chill guy
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square" />
+</p>
 </br>
 
 
@@ -34,9 +36,7 @@ Always learning something new, and im chill guy
 
 
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square" />
-</p>
+
 <br/>
 
 <p align="center">
