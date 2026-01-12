@@ -4,9 +4,7 @@
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI & backend logic. 
 <br/>
 Always learning something new, and im chill guy
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square" />
-</p>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a8263f79ce0f9ad0f352534eaadaa7ba65edf87978c7857dcfe56f56a11accb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e6472657734636f64696e67266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/1a8263f79ce0f9ad0f352534eaadaa7ba65edf87978c7857dcfe56f56a11accb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e6472657734636f64696e67266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="andrew4coding" data-canonical-src="https://komarev.com/ghpvc/?username=andrew4coding&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 </br>
 
 
