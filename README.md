@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1pf-XMe_CjVQfEEOA7jcx1exuDVnKHm8Y/view?usp=sharing" alt="Wallpaper" width="100%" height="50%">
-</p>
-<br/>
-
-## 👋 Hey there, I'm **Muhammad Haikal Putra Yandita**!
-
+## 👋 Hey, I'm **Muhammad Haikal Putra Yandita**!
+<h3 align="center" class="heading-element" dir="auto">A Full Stack Software Engineer</h3>
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI & backend logic. 
 <br/>
 Always learning something new, and im chill guy
