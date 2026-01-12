@@ -2,6 +2,10 @@
 <h3 align="center" class="heading-element" dir="auto">A Full Stack Developer Enthusiast</h3>
 </br>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square"/>
+</p>
+
 🐍 I’m currently exploring **Django**, REST Framework, and Backend Architecture
 
 🏆 Recently completed a 6-month Internship at **Fasilkom UI** (July - Dec 2025)
@@ -13,9 +17,6 @@
 And don't forget : Always be learning something new
 
 </br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square"/>
-</p>
 
 <div class="markdown-heading" dir="auto">
   <h3 align="left" class="heading-element" dir="auto">Where to find me :</h3>
