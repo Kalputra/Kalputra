@@ -45,11 +45,20 @@ Always learning something new, and im chill guy
 </p>
 
 
-<div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Where to find me :</h3><p align="left" dir="auto">
-<a href="https://twitter.com/andrewryo02" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://linkedin.com/in/andrewaryo" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewaryo" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://instagram.com/and_ryo02" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and_ryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-</p></div>
+<div class="markdown-heading" dir="auto">
+  <h3 align="left" class="heading-element" dir="auto">Where to find me :</h3>
+  <p align="left" dir="auto">
+    <a href="https://discord.com/users/Kalfein" rel="nofollow">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    </a>
+    <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita-337a36299/" rel="nofollow">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewaryo" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    </a>
+    <a href="https://www.instagram.com/kal.putraa/" rel="nofollow">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and_ryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    </a>
+  </p>
+</div>
 
 
 <br/>
