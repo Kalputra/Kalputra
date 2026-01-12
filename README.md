@@ -2,7 +2,16 @@
 <h3 align="center" class="heading-element" dir="auto">A Full Stack Developer Enthusiast</h3>
 </br>
 
-<p>Always learning something new</p> 
+🐍 I’m currently exploring **Django**, REST Framework, and Backend Architecture
+
+🏆 Recently completed a 6-month Internship at **Fasilkom UI** (July - Dec 2025)
+
+💬 Ask me about **React JS, Django, and Superset**
+
+📫 How to reach me **[Email Lo di Sini]**
+
+And don't forget : Always be learning something new
+
 </br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square"/>
@@ -52,7 +61,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Git Bash" width="40" height="40"/> </a>
   <a href="https://www.keycloak.org/" target="_blank"> <img src="https://img.shields.io/badge/Keycloak-F5B041?style=for-the-badge&logo=keycloak&logoColor=white" height="30" alt="Keycloak"/> </a>
-</p>>
+</p>
 
 
 
