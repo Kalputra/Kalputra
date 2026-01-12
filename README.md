@@ -45,42 +45,11 @@ Always learning something new, and im chill guy
 </p>
 
 
-### **My Social Media**  
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.instagram.com/kal.putra_/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" style="border-radius: 50%;"><br>
-        <sub><b>Instagram</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="mailto:kazderta@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" style="border-radius: 50%;"><br>
-        <sub><b>Gmail</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://discord.com/users/kalfein" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="48" style="border-radius: 50%; background: #5865F2;"><br>
-        <sub><b>Discord</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.linkedin.com/in/muhammad-haikal-putra-yandita-337a36299/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" style="border-radius: 50%; background: #0077B5;"><br>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://github.com/Kalputra" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" style="border-radius: 50%; background: #24292e;"><br>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Where to find me :</h3><p align="left" dir="auto">
+<a href="https://twitter.com/andrewryo02" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://linkedin.com/in/andrewaryo" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewaryo" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://instagram.com/and_ryo02" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and_ryo02" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+</p></div>
 
 
 <br/>
