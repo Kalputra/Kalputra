@@ -5,8 +5,8 @@
 <p>Always learning something new</p> 
 </br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square" />
-</p>>
+  <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square"/>
+</p>
 </br>
 
 
