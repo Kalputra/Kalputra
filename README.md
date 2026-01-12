@@ -54,8 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Git Bash" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Keycloak-F5B041?style=for-the-badge&logo=keycloak&logoColor=white" height="30" alt="Keycloak"/>
-</p>>
+</p>
 
 
 
