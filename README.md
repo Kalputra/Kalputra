@@ -9,24 +9,7 @@ Always learning something new, and im chill guy
 ---
 
 
-### My Skills
-- **Web Development:**
-  - Laravel (Blade PHP), PHP Native
-  - HTML, CSS, JavaScript
-  - React JS *(currently learning)*
-  - Django *(currently learning)*
-  - API: REST API (using Axios)
-- **Game Development:**
-  - Unity *(developed game with team, and also iam indie game developer)*
-  - Unreal Engine *(explored the basics)*
-- **Mobile App:**
-  - React Native *(used to build my first app: GymRex, developed with a team)*
-- **Other Languages:**
-  - C#
-  - C++ 
-- **3D Art:**
-  - Junior 3D Artist *(experienced in game asset creation)*
-
+### Languages And Tools :
 <br/>
 <p align="left">
   <!-- Web Dev -->
@@ -57,14 +40,6 @@ Always learning something new, and im chill guy
 
 
 ---
-
-### Projects
-- 💸 Website top-up (Laravel + Blade PHP + Herd Blade)
-- 📱 GymRex .. fitness mobile app built with React Native (team project)
-- 🌐 Personal portfolio website
-- 📚 Website perpustakaan (PHP Native)
-- 🎮 RPG game (Unity)
-  and more games i made.
 
 <br/>
 
