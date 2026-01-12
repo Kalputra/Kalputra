@@ -12,7 +12,7 @@
 
 💬 Ask me about **React JS, Django, and Superset**
 
-📫 How to reach me **[Email Lo di Sini]**
+📫 How to reach me **haikal.yandita@gmail.com**
 
 And don't forget : Always be learning something new
 </br>
