@@ -1,5 +1,6 @@
 ## 👋 Hey, I'm **Muhammad Haikal Putra Yandita**!
-<h3 align="center" class="heading-element" dir="auto">A Full Stack Software Engineer</h3>
+<h3 align="center" class="heading-element" dir="auto">A Full Stack Software Developer Enthusiast</h3>
+</br>
 Right now, I'm a student working my way toward becoming a Fullstack Developer. Whether it’s building web apps or games, I enjoy the whole process from designing UI & backend logic. 
 <br/>
 Always learning something new, and im chill guy
