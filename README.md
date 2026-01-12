@@ -15,8 +15,7 @@
 📫 How to reach me **[Email Lo di Sini]**
 
 And don't forget : Always be learning something new
-
-
+</br>
 <div class="markdown-heading" dir="auto">
   <h3 align="left" class="heading-element" dir="auto">Where to find me :</h3>
   <p align="left" dir="auto">
@@ -31,7 +30,7 @@ And don't forget : Always be learning something new
     </a>
   </p>
 </div>
-
+</br>
 ### Languages And Tools :
 <br/>
 <p align="left">
