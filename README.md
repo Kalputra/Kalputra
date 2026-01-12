@@ -7,7 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kalputra&color=blue&style=flat-square"/>
 </p>
-</br>
 
 
 ### Languages And Tools :
